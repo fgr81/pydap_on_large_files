@@ -135,5 +135,4 @@ for var in VARS:
         ds.to_netcdf(path=f"{var}.nc", format="NETCDF4")
 
 
-print("finito, pace e bene.")
 exit()
